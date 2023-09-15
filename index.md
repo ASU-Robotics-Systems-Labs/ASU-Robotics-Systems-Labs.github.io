@@ -9,8 +9,9 @@ Welcome to Robotics Systems One & Two at Arizona State University Polytechnic ca
 
 ## Selections of Labs
 
-### [Lab_A](Lab_A)
-### [Lab B](Lab B)
+### [Lab A](Lab-A)
+### [Lab B](Lab-B)
+### [Future Lab]
 
 **Bold Text**
 _Italic Text_
