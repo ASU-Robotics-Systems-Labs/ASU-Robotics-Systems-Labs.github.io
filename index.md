@@ -2,9 +2,15 @@
 title: Home
 ---
 
-# Home
+# ASU EGR 455/456 Labs
 
 ## Introduction
+Welcome to Robotics Systems One & Two at Arizona State University Polytechnic campus. Here is where you can access the different lab instructions throughout the two courses.
+
+## Selections of Labs
+
+### [Lab_A](Lab_A)
+### [Lab B](Lab B)
 
 **Bold Text**
 _Italic Text_
